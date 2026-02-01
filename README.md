@@ -1,8 +1,7 @@
 # Nepal Health Analytics Prototype
 
 ## Overview
-This project is a **health analytics prototype** for **population segmentation & risk stratification** in Nepal.  
-It demonstrates how **data science and software engineering** can work together to support public health decision-making using dummy data and a Spring Boot backend.
+This project is a **health analytics prototype** for **population segmentation & risk stratification** in Nepal. It demonstrates how **data science and software engineering** can work together to support public health decision-making using dummy data and a Spring Boot backend.
 
 - **notebooks/** : Jupyter notebooks (learning & prototype)
 - **Nepal Segmentation Project** : Spring Boot backend
